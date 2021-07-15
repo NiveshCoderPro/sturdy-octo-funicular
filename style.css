@@ -1,0 +1,17 @@
+.topnav {
+    overflow:hidden;
+    position: sticky;
+    top:0;
+    width:100%;
+    background:black;
+
+}
+.topnav a {
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:italic;
+  float:left;
+  padding:14px 15px;
+  text-align: center;
+  text-decoration: none;
+}
